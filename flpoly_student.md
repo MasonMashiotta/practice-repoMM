@@ -1,27 +1,27 @@
-## First Name Last Name
+## Mason Mashiotta
 
-### Term Year 
+### 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Statistics
 
-- Course 2
+- Microeconomics
 
-- Course 3
+- Accounting For Managers
 
-- Course 4
+- Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Playing Soccer
 
-- Thing 2
+- Watching Soccer
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Coding
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/09/05
